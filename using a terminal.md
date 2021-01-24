@@ -22,7 +22,7 @@ ls [options] [location]
 ```
 Ls -l /home/nizar
 ```
-Ls: command, -l: option , /home/ryan:  argument
+Ls: command, -l: option , /home/nizar:  argument
 
 cd which stands for change directory. 
 ```
