@@ -22,11 +22,11 @@ here are some popular text editors:
 
 * Notepad++
 * BBEdit
-* Visual studi code
+* Visual studio code
 * Atom
 * Brackets
 * Submlime text
 ### Integrated development environment (IDE)
 
-IDEs are text editors with more capabilities, they include compyling and debugging and more.
+IDEs are text editors with more capabilities, they include compiling and debugging and more.
 
