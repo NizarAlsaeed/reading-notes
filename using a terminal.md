@@ -1,4 +1,4 @@
-# Reading Notes
+
 ## Linux Basics
 
 
@@ -52,3 +52,7 @@ note: If you run the command cd without any arguments then it will always take y
 - shourtcuts are always helpful( up and down keys + Tab Completion )
 
 
+#### my notes:
+[ChoosingTextEditor](Choosing a text editor.md)
+[usingTerminal](using a terminal.md)
+[Grouth Mindset](GrouthMindset.md)
