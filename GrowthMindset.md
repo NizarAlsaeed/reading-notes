@@ -12,7 +12,3 @@ We all face challenges in our daily life and more often in our work, that is why
 I think that this image summarizes the whole idea, just make sure to keep up with *growth mindset*
 
 
-#### my notes:
-[ChoosingTextEditor](Choosing a text editor.md)
-[usingTerminal](using a terminal.md)
-[Grouth Mindset](GrouthMindset.md)

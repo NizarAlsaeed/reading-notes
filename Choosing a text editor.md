@@ -31,7 +31,3 @@ here are some popular text editors:
 IDEs are text editors with more capabilities, they include compiling and debugging and more.
 
 
-#### my notes:
-[ChoosingTextEditor](Choosing a text editor.md)
-[usingTerminal](using a terminal.md)
-[Growth Mindset](GrowthMindset.md)
