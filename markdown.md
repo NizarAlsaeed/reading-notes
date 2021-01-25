@@ -11,6 +11,7 @@ here i'll list some rules to keep them in handy
 * use `![](img link/path)` for images
 * use `[](link)` for links
 * to make a table use `-` for under the first row and `|` between the columns
+
 ```
 item 01 | item 02
 ------- | -------
