@@ -14,5 +14,5 @@ I think that this image summarizes the whole idea, just make sure to keep up wit
 
 
 #### Previous notes:
-[ChoosingTextEditor](Choosing a text editor.md)
-[usingTerminal](using a terminal.md)
+[ChoosingTextEditor]('Choosing a text editor.md')
+[usingTerminal]('using a terminal.md')
