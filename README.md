@@ -14,5 +14,5 @@ I think that this image summarizes the whole idea, just make sure to keep up wit
 
 
 #### Previous notes:
- [Choosing a text editor](Choosing a text editor.md)
- [using terminal](using a terminal.md)
+[Choosing a text editor](Choosing a text editor.md)
+[using terminal](using a terminal.md)
