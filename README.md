@@ -7,12 +7,12 @@ When specifying human mindsets we can summurize it into two types; a fixed minds
 
 We all face challenges in our daily life and more often in our work, that is why you get paid for your job, you actually get paid for dealing with challenges that the manager does not have time to deal with. so people who deal with big challenges and they are skilled in doing thier work are the people what we call them _Successful_, but in this article we will call their mindests _growth mindsets_.
 
-[img]()
+[img](images/NewGrowthMindset2.png)
 
 
 I think that this image summarizes the whole idea, just make sure to keep up with *growth mindset*
 
 
 #### Previous notes:
-* [Choosing a text editor](Choosing a text editor.md)
-* [using terminal](using a terminal.md)
+ [Choosing a text editor](Choosing a text editor.md)
+ [using terminal](using a terminal.md)
