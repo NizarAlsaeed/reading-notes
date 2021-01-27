@@ -15,5 +15,5 @@ this page is just a reference for my notes
 4. | [Markdown](markdown.md)
 5. | [Git Tutorial](GitTutorial.md)
 6. | [Web pages Design with HTML](HTMLandDesignprocess.md)
-7. | [The ABC of Programming wth Javascript](JavascriptCp1.md)
+7. | [The ABC of Programming wth Javascript](JavascriptChp1.md)
 
