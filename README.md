@@ -16,4 +16,4 @@ this page is just a reference for my notes
 5. | [Git Tutorial](GitTutorial.md)
 6. | [Web pages Design with HTML](HTMLandDesignprocess.md)
 7. | [The ABC of Programming wth Javascript](JavascriptChp1.md)
-
+8. | [Loops and operators in JS](jsloops.md)
