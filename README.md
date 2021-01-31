@@ -17,3 +17,5 @@ this page is just a reference for my notes
 6. | [Web pages Design with HTML](HTMLandDesignprocess.md)
 7. | [The ABC of Programming wth Javascript](JavascriptChp1.md)
 8. | [Loops and operators in JS](jsloops.md)
+9. | [Javascript functions](jsfunctions.md)
+10. | [CSS Colors](csscolors.md)
