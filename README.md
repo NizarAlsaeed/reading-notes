@@ -6,7 +6,7 @@ This page is just a reference for my notes
 
 \# | Topic
 -- | -----
-Read: 01 | [Introductory HTML and JavaScript]()
+Read: 01 | [Introductory HTML and JavaScript](class-01.md)
 Read: 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions]()
 Read: 03 | [HTML Lists, CSS Boxes, JS Control Flow]()
 Read: 04 | [HTML Links, CSS Layout, JS Functions]()
@@ -23,6 +23,7 @@ Read: 14a | [CSS Transforms, Transitions, and Animations]()
 Read: 14b | [What Google Learned About Teams]()
 
 ### Code 102:
+
 \# | Topic
 -- | -----
 1. | [ChoosingTextEditor](Choosingatexteditor.md)
