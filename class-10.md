@@ -13,7 +13,7 @@ Debugging Workflow
 2. what is the problem?
 
 
-![img](./images/jserrors.jpg)
+![img](images/jserrors.jpg)
 
 
 console methods:
