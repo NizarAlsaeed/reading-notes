@@ -6,6 +6,7 @@ This page is just a reference for my notes
 
 ## Code 401 - Advanced Software Development:
 > Later inshallah
+
 ## Code 301 - Intermediate Software Development:
 
 \# | Topic  
