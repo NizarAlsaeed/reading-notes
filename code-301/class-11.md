@@ -50,5 +50,5 @@ To echo a single variable, we just use <%= tagline %>
 //To loop over our data
 <% for(let i=0,i<arr.length,i++>){%>
     //code
-<%>}%>
+<%}%>
 ```
