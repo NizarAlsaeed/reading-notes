@@ -48,7 +48,7 @@ To echo a single variable, we just use <%= tagline %>
 5.
 ```js
 //To loop over our data
-<% for(let i=0,i<arr.length,i++>){%>
+/* <% for(let i=0,i<arr.length,i++>){ %>
     //code
-<%}%>
+<%}%> */
 ```
