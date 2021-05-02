@@ -8,7 +8,7 @@ This page is just a reference for my notes
 
 \# | Topic  
 -- | -----
-Read: 01 | [](./code-401/class-01)
+Read: 01 | [Pain vs. Suffering & Big O Notation](./code-401/class-01)
 Read: 02 | [](./code-401/class-02)
 Read: 03 | [](./code-401/class-03)
 Read: 04 | [](./code-401/class-04)
