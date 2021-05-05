@@ -6,12 +6,12 @@ This page is just a reference for my notes
 
 ## Code 401 - Advanced Software Development:
 
-\# | Topic  
+\# | Topic      
 -- | -----
 Read: 01 | [Pain vs. Suffering & Big O Notation](./code-401/class-01)
 Read: 02 | [TDD with Python, Recursion, and Python Modules and Packages](./code-401/class-02)
 Read: 03 | [Reading and Writing Files in Python and Python Exceptions](./code-401/class-03)
-Read: 04 | [](./code-401/class-04)
+Read: 04 | [Classes and Objects, Thinking Recursively, Fixtures and Coverage](./code-401/class-04)
 Read: 05 | [](./code-401/class-05)
 Read: 06 | [](./code-401/class-06)
 Read: 07 | [](./code-401/class-07)
