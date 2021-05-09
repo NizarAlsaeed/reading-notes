@@ -13,7 +13,7 @@ Read: 02 | [TDD with Python, Recursion, and Python Modules and Packages](./code-
 Read: 03 | [Reading and Writing Files in Python and Python Exceptions](./code-401/class-03)
 Read: 04 | [Classes and Objects, Thinking Recursively, Fixtures and Coverage](./code-401/class-04)
 Read: 05 | [](./code-401/class-05)
-Read: 06 | [](./code-401/class-06)
+Read: 06 | [How to use Random Module, What is Risk Analysis](./code-401/class-06)
 Read: 07 | [](./code-401/class-07)
 Read: 08 | [](./code-401/class-08)
 Read: 09 | [](./code-401/class-09)
