@@ -14,7 +14,7 @@ Read: 03 | [Reading and Writing Files in Python and Python Exceptions](./code-40
 Read: 04 | [Classes and Objects, Thinking Recursively, Fixtures and Coverage](./code-401/class-04)
 Read: 05 | [](./code-401/class-05)
 Read: 06 | [How to use Random Module, What is Risk Analysis](./code-401/class-06)
-Read: 07 | [](./code-401/class-07)
+Read: 07 | [Python Scope](./code-401/class-07)
 Read: 08 | [](./code-401/class-08)
 Read: 09 | [](./code-401/class-09)
 Read: 10 | [](./code-401/class-10)
